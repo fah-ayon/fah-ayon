@@ -54,6 +54,8 @@ I'm a passionate Computer Science student with a strong interest in **Artificial
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![STM32F446RE](https://img.shields.io/badge/STM32F446RE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -72,7 +74,8 @@ I'm a passionate Computer Science student with a strong interest in **Artificial
 - **[Disease Classification](https://github.com/fah-ayon/Disease-Classification-using-Machine-Learning)** - ML models for disease classification using patient data for early diagnosis and healthcare decision-making
 
 ###  IoT & Embedded Systems
-- **[SafeCycle](https://github.com/fah-ayon/SafeCycle)** - Smart Car Safety System using ESP32, MPU6050, gas & alcohol sensors with real-time collision, smoke, and alcohol detection, sending instant GPS alerts via Telegram
+- **[Car Accident Detection & Prevention System]([https://github.com/fah-ayon/SafeCycle](https://github.com/fah-ayon/Car-Accident-Detection-and-Prevention-System-with-Alcohol-Smoke-Detector))** - ESP32-based vehicle safety system using MPU6050 + SW-420 + MQ-2 + MQ-3 to detect accidents, smoke, and alcohol, automatically disable ignition, and send real-time SOS alerts with Google Maps GPS location via Telegram.
+- **[SafeCycle](https://github.com/fah-ayon/SafeCycle)** - Smart two-wheeler safety and anti-theft system using Arduino Uno, GPS, Bluetooth (HC-05), MPU6050, ultrasonic sensor, and LDR for crash detection, live tracking, rear-collision warning, automatic lighting, and real-time alerts via mobile control.
 
 ###  Healthcare Systems
 - **[CareSync](https://github.com/fah-ayon/CareSync)** - Hospital management system in PHP/MySQL with secure portals for patients, staff, and admins to manage appointments, inventory, and blood donations
@@ -161,7 +164,3 @@ I'm a passionate Computer Science student with a strong interest in **Artificial
   *If you find my work helpful, please consider giving a star ⭐ to my repositories!*
 
 </div>
-
-
-
-
