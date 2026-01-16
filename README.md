@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Fah+Ayon+%F0%9F%91%8B;Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Systems+Programming+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Abdullah+Al+Fahad+%F0%9F%91%8B;Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Systems+Programming+Explorer" alt="Typing SVG" />
 </div>
 
 <h1 align="center">👨‍💻 Abdullah Al Fahad</h1>
