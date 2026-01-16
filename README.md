@@ -69,7 +69,7 @@ I'm a passionate Computer Science student with a strong interest in **Artificial
 ## 🌟 Featured Projects
 
 ###  AI & Machine Learning
-- **[Brain Tumor MRI Analysis](https://github.com/fah-ayon/Brain-Tumor-Classification-Segmentation)** - Deep learning framework implementing U-Net, Attention U-Net, and Joint Learning architecture for brain tumor classification and segmentation using the BRISC dataset
+- **[NeuroSeg Classification](https://github.com/fah-ayon/NeuroSeg-Classification/tree/main)** - Deep learning framework implementing U-Net, Attention U-Net, and Joint Learning architecture for brain tumor classification and segmentation using the BRISC dataset
 - **[Deep CNN Classifier (CIFAR-10)](https://github.com/fah-ayon/Deep-CNN-Classifier-CIFAR10)** - High-performance PyTorch CNN with VGG-style architecture, advanced data augmentation, and automated evaluation pipelines
 - **[Disease Classification](https://github.com/fah-ayon/Disease-Classification-using-Machine-Learning)** - ML models for disease classification using patient data for early diagnosis and healthcare decision-making
 
