@@ -86,10 +86,17 @@ I'm a passionate Computer Science student with a strong interest in **Artificial
 - **[3D Chess Game](https://github.com/fah-ayon/3D-Chess-Game)** - Fully functional 3D chess game with Python and OpenGL, featuring complete chess rules, interactive controls, and immersive 3D graphics
 
 ###  Academic Resources
-- **[Computer Architecture](https://github.com/fah-ayon/Computer-Architecture)** - Comprehensive resources covering RISC-V, pipelining, memory systems, and parallel processing
-- **[Algorithms](https://github.com/fah-ayon/Algorithms)** - Algorithm design, analysis, graph algorithms, and NP-hard problems
-- **[Data Structures](https://github.com/fah-ayon/Data-Structures)** - Complete data structures course materials with practice problems and solutions
-- **[Software Engineering](https://github.com/fah-ayon/Software-Engineering)** - Design patterns, refactoring, and software quality assurance
+- **[Computer-Network](https://github.com/fah-ayon/Computer-Network)** - Complete resources including theory, labs, and examples on key networking topics like TCP/IP, routing, and protocols.
+- **[Computer Architecture](https://github.com/fah-ayon/Computer-Architecture)** - Comprehensive resources covering RISC-V, pipelining, memory systems, and parallel processing.
+- **[Microprocessor](https://github.com/fah-ayon/Microprocessor)** - Lab materials and hands-on Intel 8086 assembly programming exercises from the CSE 341 Microprocessor course.
+- **[Artificial Intelligence](https://github.com/fah-ayon/Artificial-Intelligence)** - AI course repository covering core concepts, search algorithms, problem-solving techniques, and hands-on implementations.
+- **[Software Engineering](https://github.com/fah-ayon/Software-Engineering)** - Design patterns, refactoring, and software quality assurance.
+- **[Database Systems](https://github.com/fah-ayon/Database-Systems)** - Organized course resources including notes, assignments, and examples covering relational databases, SQL, and core DBMS concepts.
+- **[Digital Electronics and Pulse Techniques (CSE350)](https://github.com/fah-ayon/Digital-Electronics-and-Pulse-Techniques-CSE350)** - Repository of digital logic and circuitry course materials with practical examples.
+- **[Algorithms](https://github.com/fah-ayon/Algorithms)** - Algorithm design, analysis, graph algorithms, and NP-hard problems.
+- **[Data Structures](https://github.com/fah-ayon/Data-Structures)** - Complete data structures course materials with practice problems and solutions.
+- **[Programming Language II (CSE111)](https://github.com/fah-ayon/Programming-Language-II-CSE111)** - Course repository with notes, labs, and examples on fundamental programming concepts and paradigms.
+- **[Programming Language I (CSE 110)](https://github.com/fah-ayon/Programming-Language-I-CSE-110)** - Course repository with lecture notes, assignments, and examples on foundational programming concepts and problem-solving techniques.
 
 ---
 
