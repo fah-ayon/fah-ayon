@@ -74,7 +74,7 @@ I'm a passionate Computer Science student with a strong interest in **Artificial
 - **[Disease Classification](https://github.com/fah-ayon/Disease-Classification-using-Machine-Learning)** - ML models for disease classification using patient data for early diagnosis and healthcare decision-making
 
 ###  IoT & Embedded Systems
-- **[Car Accident Detection & Prevention System]([https://github.com/fah-ayon/SafeCycle](https://github.com/fah-ayon/Car-Accident-Detection-and-Prevention-System-with-Alcohol-Smoke-Detector))** - ESP32-based vehicle safety system using MPU6050 + SW-420 + MQ-2 + MQ-3 to detect accidents, smoke, and alcohol, automatically disable ignition, and send real-time SOS alerts with Google Maps GPS location via Telegram.
+- **[Car Accident Detection & Prevention System](https://github.com/fah-ayon/Car-Accident-Detection-and-Prevention-System-with-Alcohol-Smoke-Detector)** - ESP32-based vehicle safety system using MPU6050 + SW-420 + MQ-2 + MQ-3 to detect accidents, smoke, and alcohol, automatically disable ignition, and send real-time SOS alerts with Google Maps GPS location via Telegram.
 - **[SafeCycle](https://github.com/fah-ayon/SafeCycle)** - Smart two-wheeler safety and anti-theft system using Arduino Uno, GPS, Bluetooth (HC-05), MPU6050, ultrasonic sensor, and LDR for crash detection, live tracking, rear-collision warning, automatic lighting, and real-time alerts via mobile control.
 
 ###  Healthcare Systems
