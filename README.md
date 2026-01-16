@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Fah+Ayon+%F0%9F%91%8B;Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Systems+Programming+Explorer" alt="Typing SVG" />
 </div>
 
-<h1 align="center">👨‍💻 Fah Ayon</h1>
+<h1 align="center">👨‍💻 Abdullah Al Fahad</h1>
 <h3 align="center">Computer Science & Engineering Student | AI/ML Enthusiast | Software Developer</h3>
 
 <p align="center">
@@ -82,6 +82,7 @@ I'm a passionate Computer Science student with a strong interest in **Artificial
 - **[MetaData Journaling (VSFS)](https://github.com/fah-ayon/MetaData-Journaling-VSFS-)** - Block-based filesystem with write-ahead logging for metadata integrity and comprehensive consistency checker
 
 ### 🎮 Graphics & Games
+- **[StarWay Survivor](https://github.com/fah-ayon/StarWay-Survivor-3D-OpenGL-Space-Shooter)** - Fast-paced 3D space shooter built with Python & PyOpenGL. Navigate infinite tunnels, dodge asteroids & monsters, collect fuel, battle mutating bosses across 5 themed levels with shooting, explosions, and screen shake effects
 - **[3D Chess Game](https://github.com/fah-ayon/3D-Chess-Game)** - Fully functional 3D chess game with Python and OpenGL, featuring complete chess rules, interactive controls, and immersive 3D graphics
 
 ### 📚 Academic Resources
