@@ -104,7 +104,7 @@ I'm a passionate Computer Science student with a strong interest in **Artificial
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fah-ayon&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fah-ayon&theme=tokyonight&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
