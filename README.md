@@ -92,15 +92,15 @@ I'm a passionate Computer Science student with a strong interest in **Artificial
 - **[Image Processing (CSE428)](https://github.com/fah-ayon/Image-Processing)** - Comprehensive resources covering digital image fundamentals, spatial/frequency filtering, and deep learning applications (CNNs, U-Nets).
 - **[Operating Systems (CSE321)](https://github.com/fah-ayon/Operating-Systems)** - Labs and theory on process management, synchronization, IPC, and xv6 kernel implementation.
 - **[Computer Graphics (CSE423)](https://github.com/fah-ayon/Computer-Graphics)** - PyOpenGL implementation of 2D/3D transformations, clipping algorithms, and interactive graphics projects.
-- **[Computer-Network](https://github.com/fah-ayon/Computer-Network)** - Complete resources including theory, labs, and examples on key networking topics like TCP/IP, routing, and protocols.
-- **[Computer Architecture](https://github.com/fah-ayon/Computer-Architecture)** - Comprehensive resources covering RISC-V, pipelining, memory systems, and parallel processing.
-- **[Microprocessor](https://github.com/fah-ayon/Microprocessor)** - Lab materials and hands-on Intel 8086 assembly programming exercises from the CSE 341 Microprocessor course.
-- **[Artificial Intelligence](https://github.com/fah-ayon/Artificial-Intelligence)** - AI course repository covering core concepts, search algorithms, problem-solving techniques, and hands-on implementations.
-- **[Software Engineering](https://github.com/fah-ayon/Software-Engineering)** - Design patterns, refactoring, and software quality assurance.
-- **[Database Systems](https://github.com/fah-ayon/Database-Systems)** - Organized course resources including notes, assignments, and examples covering relational databases, SQL, and core DBMS concepts.
+- **[Computer-Network (CSE421)](https://github.com/fah-ayon/Computer-Network)** - Complete resources including theory, labs, and examples on key networking topics like TCP/IP, routing, and protocols.
+- **[Computer Architecture (CSE340)](https://github.com/fah-ayon/Computer-Architecture)** - Comprehensive resources covering RISC-V, pipelining, memory systems, and parallel processing.
+- **[Microprocessor (CSE341)](https://github.com/fah-ayon/Microprocessor)** - Lab materials and hands-on Intel 8086 assembly programming exercises from the CSE 341 Microprocessor course.
+- **[Artificial Intelligence (CSE422)](https://github.com/fah-ayon/Artificial-Intelligence)** - AI course repository covering core concepts, search algorithms, problem-solving techniques, and hands-on implementations.
+- **[Software Engineering (CSE470)](https://github.com/fah-ayon/Software-Engineering)** - Design patterns, refactoring, and software quality assurance.
+- **[Database Systems (CSE370)](https://github.com/fah-ayon/Database-Systems)** - Organized course resources including notes, assignments, and examples covering relational databases, SQL, and core DBMS concepts.
 - **[Digital Electronics and Pulse Techniques (CSE350)](https://github.com/fah-ayon/Digital-Electronics-and-Pulse-Techniques-CSE350)** - Repository of digital logic and circuitry course materials with practical examples.
-- **[Algorithms](https://github.com/fah-ayon/Algorithms)** - Algorithm design, analysis, graph algorithms, and NP-hard problems.
-- **[Data Structures](https://github.com/fah-ayon/Data-Structures)** - Complete data structures course materials with practice problems and solutions.
+- **[Algorithms (CSE221)](https://github.com/fah-ayon/Algorithms)** - Algorithm design, analysis, graph algorithms, and NP-hard problems.
+- **[Data Structures (CSE220)](https://github.com/fah-ayon/Data-Structures)** - Complete data structures course materials with practice problems and solutions.
 - **[Programming Language II (CSE111)](https://github.com/fah-ayon/Programming-Language-II-CSE111)** - Course repository with notes, labs, and examples on fundamental programming concepts and paradigms.
 - **[Programming Language I (CSE 110)](https://github.com/fah-ayon/Programming-Language-I-CSE-110)** - Course repository with lecture notes, assignments, and examples on foundational programming concepts and problem-solving techniques.
 
