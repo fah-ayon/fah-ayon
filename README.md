@@ -89,6 +89,9 @@ I'm a passionate Computer Science student with a strong interest in **Artificial
 - **[3D Chess Game](https://github.com/fah-ayon/3D-Chess-Game)** - Fully functional 3D chess game with Python and OpenGL, featuring complete chess rules, interactive controls, and immersive 3D graphics
 
 ###  Academic Resources
+- **[Image Processing (CSE428)](https://github.com/fah-ayon/Image-Processing)** - Comprehensive resources covering digital image fundamentals, spatial/frequency filtering, and deep learning applications (CNNs, U-Nets).
+- **[Operating Systems (CSE321)](https://github.com/fah-ayon/Operating-Systems)** - Labs and theory on process management, synchronization, IPC, and xv6 kernel implementation.
+- **[Computer Graphics (CSE423)](https://github.com/fah-ayon/Computer-Graphics)** - PyOpenGL implementation of 2D/3D transformations, clipping algorithms, and interactive graphics projects.
 - **[Computer-Network](https://github.com/fah-ayon/Computer-Network)** - Complete resources including theory, labs, and examples on key networking topics like TCP/IP, routing, and protocols.
 - **[Computer Architecture](https://github.com/fah-ayon/Computer-Architecture)** - Comprehensive resources covering RISC-V, pipelining, memory systems, and parallel processing.
 - **[Microprocessor](https://github.com/fah-ayon/Microprocessor)** - Lab materials and hands-on Intel 8086 assembly programming exercises from the CSE 341 Microprocessor course.
