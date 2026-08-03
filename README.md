@@ -89,7 +89,10 @@ I'm a passionate Computer Science student with a strong interest in **Artificial
 - **[3D Chess Game](https://github.com/fah-ayon/3D-Chess-Game)** - Fully functional 3D chess game with Python and OpenGL, featuring complete chess rules, interactive controls, and immersive 3D graphics
 
 ###  Academic Resources
+- **[Compiler Design (CSE420)](https://github.com/fah-ayon/Compiler-Design)** - Complete course resources covering lexical analysis, parser generation, syntax and semantic analysis, symbol table implementation, abstract syntax trees (AST), Flex/Bison-based compiler construction, labs, assignments, and exam materials.
+- **[Cryptography and Cryptanalysis (CSE447)](https://github.com/fah-ayon/Cryptography-and-Cryptanalysis.git)** - Comprehensive course repository covering classical and modern cryptography, cryptanalysis techniques, symmetric and asymmetric encryption, hashing, digital signatures, secure communication, laboratory assignments, quizzes, notes, and exam preparation resources.
 - **[Image Processing (CSE428)](https://github.com/fah-ayon/Image-Processing)** - Comprehensive resources covering digital image fundamentals, spatial/frequency filtering, and deep learning applications (CNNs, U-Nets).
+- **[Computer Interfacing (CSE360)](https://github.com/fah-ayon/Computer-Interfacing)** - Comprehensive course repository covering interfacing ICs, sensors, displays, stepper motors, peripheral devices, practical hardware interfacing, laboratory assignments, theory notes, previous exam questions, and course projects.
 - **[Operating Systems (CSE321)](https://github.com/fah-ayon/Operating-Systems)** - Labs and theory on process management, synchronization, IPC, and xv6 kernel implementation.
 - **[Computer Graphics (CSE423)](https://github.com/fah-ayon/Computer-Graphics)** - PyOpenGL implementation of 2D/3D transformations, clipping algorithms, and interactive graphics projects.
 - **[Computer-Network (CSE421)](https://github.com/fah-ayon/Computer-Network)** - Complete resources including theory, labs, and examples on key networking topics like TCP/IP, routing, and protocols.
